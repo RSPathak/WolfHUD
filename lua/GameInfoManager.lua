@@ -460,7 +460,7 @@ if string.lower(RequiredScript) == "lib/setups/setup" then
 			overkill_damage_multiplier = "overkill",
 			--melee_kill_increase_reload_speed = "bloodthirst_aced",
 			passive_revive_damage_reduction = { "pain_killer", "pain_killer_aced" },
-			berserker_damage_multiplier = { "swan_song", "swan_song_aced" },
+			--berserker_damage_multiplier = { "swan_song", "swan_song_aced" },
 			first_aid_damage_reduction = "quick_fix",
 			increased_movement_speed = "running_from_death_aced",
 			reload_weapon_faster = "running_from_death_basic",
